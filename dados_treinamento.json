@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Qual a especificação e o custo total orçado para o Aço CA50 neste projeto de OAE?",
+    "output": "Para o insumo 'AÇO CA50', o orçamento prevê:\n- Unidade: KG\n- Quantidade: 131.563,26 KG\n- Preço Unitário de Referência: R$ 4,30\n- Custo Total Previsto: R$ 565.722,01\n- Categoria: Materiais - Aços e Telas."
+  },
+  {
+    "instruction": "Descreva o item 'ANCORAGEM PARA PROTENSÃO' e seu custo no orçamento.",
+    "output": "O item 'ANCORAGEM PARA PROTENSÃO' refere-se aos dispositivos que travam os cabos de aço após serem tensionados. O orçamento prevê 78 unidades a um custo unitário de R$ 550,00, totalizando R$ 42.900,00. Este item pertence à categoria de 'Materiais de Protensão'."
+  },
+  {
+    "instruction": "Analise o custo e a importância do serviço de bombeamento de concreto neste orçamento.",
+    "output": "O serviço de 'BOMBA LANÇA' é crucial para transportar o concreto até os pontos de aplicação na estrutura. O orçamento estima o uso de 1.173,36 m³ de bombeamento, a um custo de R$ 50,00/m³, totalizando R$ 58.668,22. É um custo logístico essencial para a concretagem da obra."
+  },
+  {
+    "instruction": "Qual a previsão de custo para a mão de obra de um Carpinteiro neste projeto?",
+    "output": "A previsão para 'MÃO DE OBRA - CARPINTEIRO' é de 3.467,89 horas. Com um custo horário de R$ 31,88, o valor total orçado para este profissional é de R$ 110.556,21, classificado na categoria 'Mão de Obra - Oficial'."
+  },
+  {
+    "instruction": "O que significa o item 'LOCAÇÃO DE ESCORAMENTO / CIMBRAMENTO' e qual seu impacto financeiro no projeto?",
+    "output": "Refere-se ao aluguel da estrutura provisória (cimbramento) que suporta as fôrmas e o concreto fresco. É classificado como 'Equipamentos'. Com um volume de 3.878,00 M3XM e um custo de R$ 70,00 por unidade, seu impacto total é de R$ 271.460,00, sendo um dos custos mais significativos de equipamentos no projeto."
+  },
+  {
+    "instruction": "Diferencie a mão de obra de 'Ajudante Armador' e 'Armador' com base no orçamento.",
+    "output": "Ambos são essenciais para a montagem das armaduras de aço. A diferença está na qualificação e no custo:\n- 'Armador' (Oficial): Custo de R$ 31,88/hora, totalizando R$ 236.329,98 para 7.413,11 horas.\n- 'Ajudante Armador' (Ajudante): Custo de R$ 27,45/hora, totalizando R$ 194.925,50 para 7.101,11 horas. O ajudante auxilia o oficial em tarefas menos complexas."
+  },
+  {
+    "instruction": "O item 'PROJETO EXECUTIVO' é um custo de material, serviço ou equipamento?",
+    "output": "O 'PROJETO EXECUTIVO' é classificado como 'Serviços Terceirizados'. Representa o custo para a elaboração dos desenhos e detalhes finais da engenharia, com um valor total orçado de R$ 121.652,87."
+  },
+  {
+    "instruction": "Qual a finalidade do item 'ENSAIO DINAMICO PDA' e qual o seu custo?",
+    "output": "O 'ENSAIO DINAMICO PDA' (Pile Driving Analyzer) é um teste para verificar a capacidade de carga de estacas de fundação. É um 'Serviço Terceirizado' com um custo previsto de R$ 15.000,00 para a realização de 1 unidade do ensaio."
+  },
+  {
+    "instruction": "Analise o custo do item 'ESTACA HELICE Ø600MM'.",
+    "output": "A 'ESTACA HELICE Ø600MM' é um tipo de fundação profunda. O orçamento prevê a execução de 960,00 metros lineares desta estaca, a um custo unitário de R$ 75,00/m. O custo total para este serviço de fundação é de R$ 72.000,00, categorizado como 'Serviços Terceirizados'."
+  },
+  {
+    "instruction": "O que está incluído no item 'MANUTENÇÃO CANTEIRO' e qual a sua periodicidade?",
+    "output": "O item 'MANUTENÇÃO CANTEIRO' é um custo Indireto para cobrir despesas gerais de segurança, limpeza e organização do canteiro de obras. O orçamento prevê um custo de R$ 30.000,00 por mês, durante 8 meses, totalizando R$ 240.000,00."
+  }
+]

@@ -1,0 +1,39 @@
+# --- Configuração do Modelo Base ---
+base_model: meta-llama/Llama-3-8B-Instruct
+model_type: LlamaForCausalLM
+tokenizer_type: AutoTokenizer
+
+# --- Configuração do Dataset (Nosso "Livro de Estudos") ---
+datasets:
+  - path: dados_treinamento.json
+    type: alpaca # Formato padrão para instruction/output
+
+# --- Parâmetros de Processamento ---
+dataset_prepared_path: last_run_prepared
+val_set_size: 0.05 # Usar 5% dos dados para verificar o aprendizado
+sequence_len: 2048 # Tamanho da "memória de curto prazo" durante o treino
+
+# --- Otimização para sua RTX 3050 (Técnica QLoRA) ---
+load_in_4bit: true
+adapter: lora
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - v_proj
+  - k_proj
+  - o_proj
+
+# --- Parâmetros do Treinamento ---
+gradient_accumulation_steps: 4
+micro_batch_size: 1
+num_epochs: 10 # Aumentei para 10 épocas, pois nosso dataset é pequeno. O modelo vai ler o livro 10 vezes.
+optimizer: adamw_8bit
+learning_rate: 0.0002
+lr_scheduler: cosine
+
+# --- Onde Salvar o Resultado (O "Conhecimento" Treinado) ---
+output_dir: ./modelo-orcamentista-v1
+save_steps: 20 # Salvar o progresso a cada 20 passos
+eval_steps: 20 # Avaliar o aprendizado a cada 20 passos
