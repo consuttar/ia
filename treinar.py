@@ -23,12 +23,16 @@ dataset = dataset.map(lambda example: {"text": format_instruction(example)})
 
 # 2. Configurar o Modelo com Quantização (para caber na sua GPU)
 print("Configurando o modelo...")
+# --- Código Corrigido ---
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type="nf4",
     bnb_4bit_compute_dtype=torch.bfloat16,
     bnb_4bit_use_double_quant=False,
+    llm_int8_enable_fp32_cpu_offload=True  # <--- ADICIONE ESTA LINHA
+
 )
+
 
 model_name = "meta-llama/Llama-3.1-8B-Instruct"
 model = AutoModelForCausalLM.from_pretrained(
