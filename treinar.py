@@ -81,7 +81,6 @@ trainer = SFTTrainer(
     model=model,
     train_dataset=dataset,
     peft_config=lora_config,
-    max_seq_length=2048,
     tokenizer=tokenizer,
     args=training_arguments,
 )
