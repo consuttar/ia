@@ -1,0 +1,2082 @@
+[
+  {
+    "codigo": 10003.0,
+    "descricao": "AÇO CA50",
+    "unidade": "KG",
+    "quantidade": 440449.49,
+    "preco_unitario": 6.63,
+    "preco_total": 2920180.1187,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10024.0,
+    "descricao": "ARAME RECOZIDO",
+    "unidade": "KG",
+    "quantidade": 8808.99,
+    "preco_unitario": 15.0,
+    "preco_total": 132134.85,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10005.0,
+    "descricao": "AÇO PARA PROTENSÃO / CORDOALHA",
+    "unidade": "KG",
+    "quantidade": 44670.7,
+    "preco_unitario": 9.8,
+    "preco_total": 437772.86,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10015.0,
+    "descricao": "ANCORAGEM PARA PROTENSÃO",
+    "unidade": "UND",
+    "quantidade": 240.0,
+    "preco_unitario": 700.0,
+    "preco_total": 168000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10032.0,
+    "descricao": "BAINHAS PARA PROTENSÃO",
+    "unidade": "M",
+    "quantidade": 3276.0,
+    "preco_unitario": 20.0,
+    "preco_total": 65520.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10090.0,
+    "descricao": "CHAPA DE AÇO GALVANIZADA",
+    "unidade": "KG",
+    "quantidade": 3678.88,
+    "preco_unitario": 11.0,
+    "preco_total": 40467.68,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10463.0,
+    "descricao": "SERVIÇOS DE PROTENSÃO",
+    "unidade": "KG",
+    "quantidade": 44670.7,
+    "preco_unitario": 2.0,
+    "preco_total": 89341.4,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10179.0,
+    "descricao": "ESTACA PREMOLDADA Ø60CM",
+    "unidade": "M",
+    "quantidade": 3445.0,
+    "preco_unitario": 800.0,
+    "preco_total": 2756000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10336.0,
+    "descricao": "PERFIL METALICO",
+    "unidade": "KG",
+    "quantidade": 23025.05,
+    "preco_unitario": 8.0,
+    "preco_total": 184200.4,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10450.0,
+    "descricao": "ENSAIO DINAMICO PDA",
+    "unidade": "UND",
+    "quantidade": 5.0,
+    "preco_unitario": 25000.0,
+    "preco_total": 125000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 160213.0,
+    "descricao": "CONCRETO USINADO FCK 10 MPA",
+    "unidade": "M3",
+    "quantidade": 34.0,
+    "preco_unitario": 497.9,
+    "preco_total": 16928.6,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10115.0,
+    "descricao": "CONCRETO FCK 10",
+    "unidade": "M3",
+    "quantidade": 34.0,
+    "preco_unitario": 497.9,
+    "preco_total": 16928.6,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161841.0,
+    "descricao": "CONCRETO USINADO FCK 25 MPA",
+    "unidade": "M3",
+    "quantidade": 725.0,
+    "preco_unitario": 619.15,
+    "preco_total": 448883.75,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10117.0,
+    "descricao": "CONCRETO FCK 25",
+    "unidade": "M3",
+    "quantidade": 725.0,
+    "preco_unitario": 619.15,
+    "preco_total": 448883.75,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161963.0,
+    "descricao": "CONCRETO USINADO FCK 30 MPA",
+    "unidade": "M3",
+    "quantidade": 898.3,
+    "preco_unitario": 619.149994433931,
+    "preco_total": 556182.44,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10118.0,
+    "descricao": "CONCRETO FCK 30",
+    "unidade": "M3",
+    "quantidade": 898.3,
+    "preco_unitario": 619.15,
+    "preco_total": 556182.445,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161964.0,
+    "descricao": "CONCRETO USINADO FCK 35 MPA",
+    "unidade": "M3",
+    "quantidade": 985.0,
+    "preco_unitario": 698.06,
+    "preco_total": 687589.1,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10119.0,
+    "descricao": "CONCRETO FCK 35",
+    "unidade": "M3",
+    "quantidade": 985.0,
+    "preco_unitario": 698.06,
+    "preco_total": 687589.1,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 162087.0,
+    "descricao": "CONCRETO USINADO FCK 45 MPA",
+    "unidade": "M3",
+    "quantidade": 470.0,
+    "preco_unitario": 698.06,
+    "preco_total": 328088.2,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10121.0,
+    "descricao": "CONCRETO FCK 45",
+    "unidade": "M3",
+    "quantidade": 470.0,
+    "preco_unitario": 698.06,
+    "preco_total": 328088.2,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161965.0,
+    "descricao": "CONCRETO USINADO FCK 60 MPA",
+    "unidade": "M3",
+    "quantidade": 117.0,
+    "preco_unitario": 2240.0,
+    "preco_total": 262080.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10496.0,
+    "descricao": "CONCRETO FCK 60",
+    "unidade": "M3",
+    "quantidade": 117.0,
+    "preco_unitario": 2240.0,
+    "preco_total": 262080.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161817.0,
+    "descricao": "BOMBEAMENTO CONCRETO",
+    "unidade": "M3",
+    "quantidade": 2603.0,
+    "preco_unitario": 80.0,
+    "preco_total": 208240.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10052.0,
+    "descricao": "BOMBA LANÇA",
+    "unidade": "M3",
+    "quantidade": 2603.0,
+    "preco_unitario": 80.0,
+    "preco_total": 208240.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 161920.0,
+    "descricao": "AGENTE DE CURA QUIMICA",
+    "unidade": "Kg",
+    "quantidade": 2603.0,
+    "preco_unitario": 20.0,
+    "preco_total": 52060.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10456.0,
+    "descricao": "AGENTE DE CURA QUIMICA",
+    "unidade": "KG",
+    "quantidade": 2603.0,
+    "preco_unitario": 20.0,
+    "preco_total": 52060.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10267.0,
+    "descricao": "LOCAÇÃO GUINDASTE",
+    "unidade": "H",
+    "quantidade": 231.24,
+    "preco_unitario": 2000.0,
+    "preco_total": 462480.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10464.0,
+    "descricao": "TUBO PVC",
+    "unidade": "M",
+    "quantidade": 1041.8,
+    "preco_unitario": 20.0,
+    "preco_total": 20836.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10494.0,
+    "descricao": "MÃO DE OBRA- INDIRETO",
+    "unidade": "H",
+    "quantidade": 2640.0,
+    "preco_unitario": 265.6518,
+    "preco_total": 701320.6886,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10492.0,
+    "descricao": "MÃO DE OBRA- OFICIAL",
+    "unidade": "H",
+    "quantidade": 69264.28,
+    "preco_unitario": 30.5648,
+    "preco_total": 2117048.8653,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10244.0,
+    "descricao": "LOCAÇÃO ANDAIME",
+    "unidade": "M3XM",
+    "quantidade": 11440.0,
+    "preco_unitario": 3.0,
+    "preco_total": 34320.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10145.0,
+    "descricao": "DESMOLDANTE",
+    "unidade": "L",
+    "quantidade": 1405.0,
+    "preco_unitario": 20.0,
+    "preco_total": 28100.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10167.0,
+    "descricao": "ESPAÇADOR",
+    "unidade": "SC",
+    "quantidade": 500.0,
+    "preco_unitario": 24.0,
+    "preco_total": 12000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10253.0,
+    "descricao": "LOCAÇÃO DE FORMA",
+    "unidade": "M2XM",
+    "quantidade": 4605.0,
+    "preco_unitario": 48.47,
+    "preco_total": 223204.35,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10282.0,
+    "descricao": "MADEIRAS EM GERAL",
+    "unidade": "M",
+    "quantidade": 22754.06,
+    "preco_unitario": 5.0,
+    "preco_total": 113770.3,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10283.0,
+    "descricao": "MADEIRITE PLASTIFICADO",
+    "unidade": "UND",
+    "quantidade": 1295.7,
+    "preco_unitario": 140.0,
+    "preco_total": 181398.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10363.0,
+    "descricao": "PREGO DIVERSOS",
+    "unidade": "KG",
+    "quantidade": 2349.53,
+    "preco_unitario": 15.0,
+    "preco_total": 35242.95,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10465.0,
+    "descricao": "TUBO DE POLIETILENO",
+    "unidade": "M",
+    "quantidade": 6000.0,
+    "preco_unitario": 1.41,
+    "preco_total": 8460.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10483.0,
+    "descricao": "ADITIVO PARA CIMENTO",
+    "unidade": "L",
+    "quantidade": 2233.0,
+    "preco_unitario": 18.0,
+    "preco_total": 40194.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10058.0,
+    "descricao": "BRITA",
+    "unidade": "T",
+    "quantidade": 571.08,
+    "preco_unitario": 180.0,
+    "preco_total": 102794.4,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10101.0,
+    "descricao": "CIMENTO CP",
+    "unidade": "SC",
+    "quantidade": 446.7,
+    "preco_unitario": 35.9,
+    "preco_total": 16036.53,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10018.0,
+    "descricao": "APARELHO DE APOIO",
+    "unidade": "DM3",
+    "quantidade": 858.48,
+    "preco_unitario": 200.0,
+    "preco_total": 171696.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10232.0,
+    "descricao": "JUNTAS DE DILATAÇAO",
+    "unidade": "M",
+    "quantidade": 128.05,
+    "preco_unitario": 1000.0,
+    "preco_total": 128050.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10252.0,
+    "descricao": "LOCAÇÃO DE ESCORAMENTO / CIMBRAMENTO",
+    "unidade": "M3XM",
+    "quantidade": 57042.0,
+    "preco_unitario": 5.0,
+    "preco_total": 285210.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10263.0,
+    "descricao": "LOCAÇÃO DE VEICULO",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 12000.0,
+    "preco_total": 144000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10246.0,
+    "descricao": "LOCAÇÃO CAMINHÃO MUNCK",
+    "unidade": "H",
+    "quantidade": 3396.339,
+    "preco_unitario": 170.0,
+    "preco_total": 577377.63,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10250.0,
+    "descricao": "LOCAÇÃO DE CAMINHÃO",
+    "unidade": "H",
+    "quantidade": 594.0,
+    "preco_unitario": 200.0,
+    "preco_total": 118800.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10457.0,
+    "descricao": "LOCAÇÃO DE RETROESCAVADEIRA",
+    "unidade": "H",
+    "quantidade": 27.0,
+    "preco_unitario": 300.0,
+    "preco_total": 8100.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10259.0,
+    "descricao": "LOCAÇÃO DE ROLO COMPACTADOR",
+    "unidade": "H",
+    "quantidade": 12.0,
+    "preco_unitario": 500.0,
+    "preco_total": 6000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10265.0,
+    "descricao": "LOCAÇÃO ESCAVADEIRA HIDRAULICA",
+    "unidade": "H",
+    "quantidade": 296.3,
+    "preco_unitario": 300.0,
+    "preco_total": 88890.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10254.0,
+    "descricao": "LOCAÇÃO DE GERADOR",
+    "unidade": "H",
+    "quantidade": 12000.0,
+    "preco_unitario": 10.0,
+    "preco_total": 120000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10378.0,
+    "descricao": "REFEIÇÃO",
+    "unidade": "UND",
+    "quantidade": 30591.07,
+    "preco_unitario": 20.0,
+    "preco_total": 611821.4,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 110905.0,
+    "descricao": "TOPOGRAFIA",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 30000.0,
+    "preco_total": 360000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10486.0,
+    "descricao": "TOPOGAFIA MENSAL",
+    "unidade": "VB",
+    "quantidade": 12.0,
+    "preco_unitario": 30000.0,
+    "preco_total": 360000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10395.0,
+    "descricao": "SERVIÇO DE SEGURANÇA/VIGIA",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 14000.0,
+    "preco_total": 168000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10491.0,
+    "descricao": "VERBA EQUIPAMENTO PROTEÇÃO INDIVIDUAL",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 28986.76,
+    "preco_total": 347841.12,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10471.0,
+    "descricao": "AGUA/ESGOTO",
+    "unidade": "MES",
+    "quantidade": 54.0,
+    "preco_unitario": 1100.0,
+    "preco_total": 59400.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10472.0,
+    "descricao": "ENERGIA ELÉTRICA",
+    "unidade": "MES",
+    "quantidade": 54.0,
+    "preco_unitario": 1100.0,
+    "preco_total": 59400.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10490.0,
+    "descricao": "INTERNET MENSAL",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 800.0,
+    "preco_total": 9600.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10255.0,
+    "descricao": "LOCAÇÃO DE IMÓVEL",
+    "unidade": "MES",
+    "quantidade": 60.0,
+    "preco_unitario": 4100.0,
+    "preco_total": 246000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10417.0,
+    "descricao": "TELA TAPUME LARANJA",
+    "unidade": "RL",
+    "quantidade": 769.23,
+    "preco_unitario": 65.0,
+    "preco_total": 49999.95,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10035.0,
+    "descricao": "BANHEIRO QUIMICO",
+    "unidade": "UND",
+    "quantidade": 36.0,
+    "preco_unitario": 1500.0,
+    "preco_total": 54000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10248.0,
+    "descricao": "LOCAÇÃO CONTAINER",
+    "unidade": "MES",
+    "quantidade": 36.0,
+    "preco_unitario": 1500.0,
+    "preco_total": 54000.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10130.0,
+    "descricao": "CONTROLE TÉCNOLÓGICO",
+    "unidade": "MES",
+    "quantidade": 12.0,
+    "preco_unitario": 12629.68,
+    "preco_total": 151556.16,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": 10403.0,
+    "descricao": "SONDAGENS A PERCURSAO",
+    "unidade": "M",
+    "quantidade": 198.0,
+    "preco_unitario": 1263.0,
+    "preco_total": 250074.0,
+    "nome_obra": "1 - OAE METRO BH",
+    "contexto_obra": "Orçamento para a obra '1 - OAE METRO BH', versão 'N/A'."
+  },
+  {
+    "codigo": "161963",
+    "descricao": " Fornecimento, transporte, lançamento e cura de concreto Fck = 30 MPa",
+    "unidade": "M3",
+    "quantidade": 47.74,
+    "preco_unitario": 2914.63175534143,
+    "preco_total": 139144.52,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1902106",
+    "descricao": "BOMBA DE CONCRETO",
+    "unidade": "DIA",
+    "quantidade": 50.127,
+    "preco_unitario": 371.16,
+    "preco_total": 18605.1373,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1223840",
+    "descricao": "CONCRETO USINADO FCK 30 MPA, A/C<=0,50,  SLUMP 100MM;",
+    "unidade": "M3",
+    "quantidade": 50.127,
+    "preco_unitario": 2152.728,
+    "preco_total": 107909.7965,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1438410",
+    "descricao": "GASOLINA",
+    "unidade": "L",
+    "quantidade": 11.935,
+    "preco_unitario": 23.4202,
+    "preco_total": 279.51775,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1546010",
+    "descricao": "VIBRADOR PORTÁTIL MANGOTE DE 3MT",
+    "unidade": "un",
+    "quantidade": 11.935,
+    "preco_unitario": 37.116,
+    "preco_total": 442.9795,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 77.3388,
+    "preco_unitario": 48.948,
+    "preco_total": 6266.8823,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 77.3388,
+    "preco_unitario": 44.0532,
+    "preco_total": 5640.2089,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "161200",
+    "descricao": " Tela metálica",
+    "unidade": "KG",
+    "quantidade": 1198.0,
+    "preco_unitario": 51.21,
+    "preco_total": 61349.58,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1191055",
+    "descricao": "ARAME RECOZIDO N§ 18",
+    "unidade": "KG",
+    "quantidade": 11.9799997322261,
+    "preco_unitario": 44.5392,
+    "preco_total": 533.5892,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1196540",
+    "descricao": "ESPAÇADOR DE FERRAGEM",
+    "unidade": "UN",
+    "quantidade": 215.640008568764,
+    "preco_unitario": 0.3712,
+    "preco_total": 80.0264,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1213211",
+    "descricao": "PINTURA ELETROSTATICA",
+    "unidade": " UN",
+    "quantidade": 1198.0,
+    "preco_unitario": 44.5392,
+    "preco_total": 53357.9616,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010110",
+    "descricao": "AJUDANTE DE ARMADOR",
+    "unidade": "HS",
+    "quantidade": 47.92,
+    "preco_unitario": 44.0532,
+    "preco_total": 3494.9254,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010210",
+    "descricao": "ARMADOR",
+    "unidade": "HS",
+    "quantidade": 47.92,
+    "preco_unitario": 48.948,
+    "preco_total": 3883.0774,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "160947",
+    "descricao": " Forma plana para concreto armado comum",
+    "unidade": "M2",
+    "quantidade": 8.44,
+    "preco_unitario": 325.861374407583,
+    "preco_total": 2750.27,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1197726",
+    "descricao": "LOCAÇAO DE FORMAS (INDENIZAÇÃO)",
+    "unidade": "UN",
+    "quantidade": 8.44,
+    "preco_unitario": 32.5136,
+    "preco_total": 274.4148,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "020111",
+    "descricao": "DESMOLDANTE PARA FORMAS",
+    "unidade": "Kg",
+    "quantidade": 0.02532,
+    "preco_unitario": 37.116,
+    "preco_total": 0.9394,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1384810",
+    "descricao": "LOCAÇAO DE FORMAS MILLS",
+    "unidade": "M2",
+    "quantidade": 8.44,
+    "preco_unitario": 167.022,
+    "preco_total": 1409.6657,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1334160",
+    "descricao": "TUBO DE POLIETILENO  50MM",
+    "unidade": "M",
+    "quantidade": 8.44,
+    "preco_unitario": 5.5674,
+    "preco_total": 46.9889,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010130",
+    "descricao": "AJUDANTE DE CARPINTEIRO",
+    "unidade": "HS",
+    "quantidade": 4.22,
+    "preco_unitario": 44.0532,
+    "preco_total": 307.7578,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1011230",
+    "descricao": "CARPINTEIRO",
+    "unidade": "HS",
+    "quantidade": 4.22,
+    "preco_unitario": 48.948,
+    "preco_total": 341.9533,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1907911",
+    "descricao": "FRETE FORMAS",
+    "unidade": "M2",
+    "quantidade": 8.44,
+    "preco_unitario": 29.6928,
+    "preco_total": 250.6072,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1385681",
+    "descricao": "AGENTE DE CURA QUÖMICA",
+    "unidade": "Kg",
+    "quantidade": 1.688,
+    "preco_unitario": 33.4044,
+    "preco_total": 56.3868,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 0.844,
+    "preco_unitario": 44.0532,
+    "preco_total": 61.5521,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "161120",
+    "descricao": " Fornecimento, corte, dobra e aplicação de aço CA-50",
+    "unidade": "KG",
+    "quantidade": 1312.0,
+    "preco_unitario": 33.1772027439024,
+    "preco_total": 43528.49,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1190030",
+    "descricao": "AÇO CA-50/CA-25 CORTADO E DOBRADO POSTO OBRA",
+    "unidade": "KG",
+    "quantidade": 1312.0,
+    "preco_unitario": 23.0119,
+    "preco_total": 30191.6128,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1191055",
+    "descricao": "ARAME RECOZIDO N§ 18",
+    "unidade": "KG",
+    "quantidade": 26.2399994134903,
+    "preco_unitario": 44.5392,
+    "preco_total": 1168.7296,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1196540",
+    "descricao": "ESPAÇADOR DE FERRAGEM",
+    "unidade": "UN",
+    "quantidade": 131.200001955032,
+    "preco_unitario": 0.3712,
+    "preco_total": 48.6752,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010110",
+    "descricao": "AJUDANTE DE ARMADOR",
+    "unidade": "HS",
+    "quantidade": 78.72,
+    "preco_unitario": 44.0532,
+    "preco_total": 5740.7872,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010210",
+    "descricao": "ARMADOR",
+    "unidade": "HS",
+    "quantidade": 78.72,
+    "preco_unitario": 48.948,
+    "preco_total": 6378.6816,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "121002",
+    "descricao": " Escavação e carga de material de 1/2a categoria",
+    "unidade": "M3",
+    "quantidade": 6.51,
+    "preco_unitario": 1928.72811059908,
+    "preco_total": 12556.02,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1906510",
+    "descricao": "ESCAVADEIRA HIDRAULICA - 315 CL",
+    "unidade": " UN",
+    "quantidade": 6.51,
+    "preco_unitario": 1855.8,
+    "preco_total": 12081.258,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 6.51,
+    "preco_unitario": 44.0532,
+    "preco_total": 474.7645,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "121018",
+    "descricao": " Transporte de 1ª/2ª categoria até 5 km",
+    "unidade": "M3K",
+    "quantidade": 95.35,
+    "preco_unitario": 55.6740429994756,
+    "preco_total": 5308.52,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1902812",
+    "descricao": "CAMINHAO BASCULANTE",
+    "unidade": "HS",
+    "quantidade": 95.35,
+    "preco_unitario": 55.674,
+    "preco_total": 5308.5159,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "121002",
+    "descricao": " Escavação e carga de material de 1/2a categoria",
+    "unidade": "M3",
+    "quantidade": 19.07,
+    "preco_unitario": 1928.72836916623,
+    "preco_total": 36780.85,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1906510",
+    "descricao": "ESCAVADEIRA HIDRAULICA - 315 CL",
+    "unidade": " UN",
+    "quantidade": 19.07,
+    "preco_unitario": 1855.8,
+    "preco_total": 35390.106,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 19.07,
+    "preco_unitario": 44.0532,
+    "preco_total": 1390.7465,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "150180",
+    "descricao": " Compactação de aterro",
+    "unidade": "M3",
+    "quantidade": 45.77,
+    "preco_unitario": 248.691937950623,
+    "preco_total": 11382.63,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1903510",
+    "descricao": "COMPACTADOR WACKER",
+    "unidade": "un",
+    "quantidade": 27.4620010912418,
+    "preco_unitario": 296.928,
+    "preco_total": 8154.2367,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1438410",
+    "descricao": "GASOLINA",
+    "unidade": "L",
+    "quantidade": 27.4620010912418,
+    "preco_unitario": 23.4202,
+    "preco_total": 643.16462,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 35.4488655674458,
+    "preco_unitario": 44.0532,
+    "preco_total": 2585.231485,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "170830",
+    "descricao": " Alvenaria de bloco estrutural",
+    "unidade": "M²",
+    "quantidade": 33.73,
+    "preco_unitario": 362.914616068782,
+    "preco_total": 12241.11,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1100912",
+    "descricao": "AREIA MEDIA",
+    "unidade": "M",
+    "quantidade": 0.607139973863959,
+    "preco_unitario": 556.74,
+    "preco_total": 338.0184,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1552030",
+    "descricao": "BLOCO CONCRETO APARENTE",
+    "unidade": "UN",
+    "quantidade": 441.863012866974,
+    "preco_unitario": 18.558,
+    "preco_total": 8200.0936,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1102810",
+    "descricao": "CAL",
+    "unidade": "SC",
+    "quantidade": 22.5991005629301,
+    "preco_unitario": 74.232,
+    "preco_total": 1677.575,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1103210",
+    "descricao": "CIMENTO HOLCIM",
+    "unidade": "KG",
+    "quantidade": 89.0472035384178,
+    "preco_unitario": 2.6724,
+    "preco_total": 237.965184,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 11.6098655030131,
+    "preco_unitario": 48.948,
+    "preco_total": 940.77016,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 11.6098655030131,
+    "preco_unitario": 44.0532,
+    "preco_total": 846.687094,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "161804",
+    "descricao": " Concreto grout alta resistência",
+    "unidade": "DM3",
+    "quantidade": 3944.0,
+    "preco_unitario": 15.3758012170385,
+    "preco_total": 60642.16,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1901610",
+    "descricao": "LOCAÇÃO DE BETONEIRA",
+    "unidade": "DIA",
+    "quantidade": 138.04,
+    "preco_unitario": 37.116,
+    "preco_total": 5123.6504,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1932115",
+    "descricao": "ANCHORGROUT",
+    "unidade": "KG",
+    "quantidade": 11043.2,
+    "preco_unitario": 3.7116,
+    "preco_total": 40988.02,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1436310",
+    "descricao": "ENERGIA ELETRICA",
+    "unidade": "MES",
+    "quantidade": 130.152,
+    "preco_unitario": 3.7116,
+    "preco_total": 483.14,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1119240",
+    "descricao": "PEDRISCO",
+    "unidade": "M3",
+    "quantidade": 3.94400018732995,
+    "preco_unitario": 482.508,
+    "preco_total": 1902.98,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 78.8799982368946,
+    "preco_unitario": 48.948,
+    "preco_total": 6391.252,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 78.8799982368946,
+    "preco_unitario": 44.0532,
+    "preco_total": 5753.1128,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "115001",
+    "descricao": " Trava moto em tubo de aço galvanizado",
+    "unidade": "UN",
+    "quantidade": 4.0,
+    "preco_unitario": 23791.06,
+    "preco_total": 95164.24,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1616509",
+    "descricao": "ESTRUTURA METALICA",
+    "unidade": "un",
+    "quantidade": 1200.0,
+    "preco_unitario": 44.5392,
+    "preco_total": 53447.04,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010160",
+    "descricao": "AJUDANTE DE SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 120.0,
+    "preco_unitario": 48.948,
+    "preco_total": 9723.798,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018510",
+    "descricao": "SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 120.0,
+    "preco_unitario": 48.948,
+    "preco_total": 9723.798,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "000257",
+    "descricao": "JATEAMENTO/GALVANIZAÇÃO",
+    "unidade": "un",
+    "quantidade": 1200.0,
+    "preco_unitario": 14.8464,
+    "preco_total": 17815.68,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1907910",
+    "descricao": "TRANSPORTE MOLDES",
+    "unidade": "VB",
+    "quantidade": 0.119999996968545,
+    "preco_unitario": 37116.0,
+    "preco_total": 4453.92,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "168001",
+    "descricao": " Apicoamento de superfíce de concreto",
+    "unidade": "M2",
+    "quantidade": 401.25,
+    "preco_unitario": 54.0913894080997,
+    "preco_total": 21704.17,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1920760",
+    "descricao": "ROMPEDOR CONCRETO",
+    "unidade": "HS",
+    "quantidade": 120.375,
+    "preco_unitario": 37.116,
+    "preco_total": 4467.8385,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1438410",
+    "descricao": "GASOLINA",
+    "unidade": "L",
+    "quantidade": 361.125,
+    "preco_unitario": 23.4202,
+    "preco_total": 8457.62775,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 120.375,
+    "preco_unitario": 44.0532,
+    "preco_total": 8778.7081,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "168275",
+    "descricao": " Hidrojateamento de superfície de concreto",
+    "unidade": "M2",
+    "quantidade": 401.25,
+    "preco_unitario": 44.6539065420561,
+    "preco_total": 17917.38,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1909351",
+    "descricao": "GRUPO GERADOR",
+    "unidade": "un",
+    "quantidade": 40.125,
+    "preco_unitario": 67.4027,
+    "preco_total": 2704.5454,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1370101",
+    "descricao": "AGUA",
+    "unidade": "LT",
+    "quantidade": 4.0125,
+    "preco_unitario": 92.79,
+    "preco_total": 372.3199,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1916249",
+    "descricao": "MAQUINA JATO DE AGUA",
+    "unidade": "HS",
+    "quantidade": 40.125,
+    "preco_unitario": 296.928,
+    "preco_total": 11914.236,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 40.125,
+    "preco_unitario": 44.0532,
+    "preco_total": 2926.2761,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "168277",
+    "descricao": " Jateamento de ar em superfície de concreto",
+    "unidade": "M2",
+    "quantidade": 401.25,
+    "preco_unitario": 19.4206105919003,
+    "preco_total": 7792.52,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1448610",
+    "descricao": " DIESEL",
+    "unidade": "L",
+    "quantidade": 200.625,
+    "preco_unitario": 24.1254,
+    "preco_total": 4840.1584,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1903550",
+    "descricao": "COMPRESSOR DE AR",
+    "unidade": "DIA",
+    "quantidade": 20.0625002989545,
+    "preco_unitario": 74.232,
+    "preco_total": 1489.2795,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 20.0625002989545,
+    "preco_unitario": 44.0532,
+    "preco_total": 1463.0779,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "140218",
+    "descricao": " Demolição de concreto armado",
+    "unidade": "M3",
+    "quantidade": 33.75,
+    "preco_unitario": 5884.80711111111,
+    "preco_total": 198612.24,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1920760",
+    "descricao": "ROMPEDOR CONCRETO",
+    "unidade": "HS",
+    "quantidade": 911.25,
+    "preco_unitario": 37.116,
+    "preco_total": 33821.955,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1448610",
+    "descricao": " DIESEL",
+    "unidade": "L",
+    "quantidade": 3037.5,
+    "preco_unitario": 24.1254,
+    "preco_total": 73280.9025,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1903550",
+    "descricao": "COMPRESSOR DE AR",
+    "unidade": "DIA",
+    "quantidade": 303.75,
+    "preco_unitario": 74.232,
+    "preco_total": 22547.97,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1449010",
+    "descricao": "OLEO PARA MOTORES",
+    "unidade": "un",
+    "quantidade": 67.5,
+    "preco_unitario": 37.116,
+    "preco_total": 2505.33,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 911.25,
+    "preco_unitario": 44.0532,
+    "preco_total": 66456.0821,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "270543",
+    "descricao": " Disposição final em bota fora, incluindo pagamento de royaltie (materiais de demolição, exceto pavimento)",
+    "unidade": "M3",
+    "quantidade": 33.75,
+    "preco_unitario": 604.792,
+    "preco_total": 20411.73,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1390750",
+    "descricao": "ROYALT BOTA-FORA",
+    "unidade": "M3",
+    "quantidade": 33.75,
+    "preco_unitario": 18.558,
+    "preco_total": 626.3325,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 101.25,
+    "preco_unitario": 44.0532,
+    "preco_total": 7384.0106,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1162819",
+    "descricao": "CAÇAMBA",
+    "unidade": "UN",
+    "quantidade": 11.1375,
+    "preco_unitario": 1113.48,
+    "preco_total": 12401.3835,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "162424",
+    "descricao": " Execução de juntas de dilatação JEENE ou Similar",
+    "unidade": "M",
+    "quantidade": 102.5,
+    "preco_unitario": 2969.28,
+    "preco_total": 304351.2,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1261610",
+    "descricao": "JUNTA JEENE JJ3550VV",
+    "unidade": "M",
+    "quantidade": 102.5,
+    "preco_unitario": 2969.28,
+    "preco_total": 304351.2,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "312858",
+    "descricao": " Gradil metálico",
+    "unidade": "M",
+    "quantidade": 10.72,
+    "preco_unitario": 3965.17630597015,
+    "preco_total": 42506.69,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1616509",
+    "descricao": "ESTRUTURA METALICA",
+    "unidade": "un",
+    "quantidade": 536.0,
+    "preco_unitario": 44.5392,
+    "preco_total": 23873.0112,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010160",
+    "descricao": "AJUDANTE DE SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 53.6,
+    "preco_unitario": 48.948,
+    "preco_total": 4343.297,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018510",
+    "descricao": "SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 53.6,
+    "preco_unitario": 48.948,
+    "preco_total": 4343.297,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "000257",
+    "descricao": "JATEAMENTO/GALVANIZAÇÃO",
+    "unidade": "un",
+    "quantidade": 536.0,
+    "preco_unitario": 14.8464,
+    "preco_total": 7957.6704,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1907910",
+    "descricao": "TRANSPORTE MOLDES",
+    "unidade": "VB",
+    "quantidade": 0.0535999986459501,
+    "preco_unitario": 37116.0,
+    "preco_total": 1989.4176,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "141611",
+    "descricao": " Remoção de Gradil",
+    "unidade": "M",
+    "quantidade": 325.58,
+    "preco_unitario": 258.508507893605,
+    "preco_total": 84165.2,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1906530",
+    "descricao": "SERRA MARMORE",
+    "unidade": "Pç",
+    "quantidade": 325.58,
+    "preco_unitario": 185.58,
+    "preco_total": 60421.1364,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 325.58,
+    "preco_unitario": 44.0532,
+    "preco_total": 23744.061,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "252710",
+    "descricao": " Pintura de gradil com tinta esmalte",
+    "unidade": "M2",
+    "quantidade": 2102.01,
+    "preco_unitario": 155.266302253557,
+    "preco_total": 326371.32,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1804750",
+    "descricao": "LIXA PARA FERRO",
+    "unidade": "FL",
+    "quantidade": 1051.005,
+    "preco_unitario": 3.7116,
+    "preco_total": 3900.9102,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1796510",
+    "descricao": "TINTA",
+    "unidade": "L",
+    "quantidade": 525.5025,
+    "preco_unitario": 37.116,
+    "preco_total": 19504.5508,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1819910",
+    "descricao": "ZARCAO",
+    "unidade": "L",
+    "quantidade": 315.301512528956,
+    "preco_unitario": 37.116,
+    "preco_total": 11702.7305,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010155",
+    "descricao": "AJUDANTE DE PINTOR",
+    "unidade": "HS",
+    "quantidade": 1891.80894988418,
+    "preco_unitario": 44.0532,
+    "preco_total": 137966.6875,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017030",
+    "descricao": "PINTOR",
+    "unidade": "HS",
+    "quantidade": 1891.80894988418,
+    "preco_unitario": 48.948,
+    "preco_total": 153296.4363,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "312860",
+    "descricao": " IMPLANTACAO DE GUARDA CORPO METALICO",
+    "unidade": "M",
+    "quantidade": 325.58,
+    "preco_unitario": 306.299803427729,
+    "preco_total": 99725.09,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010160",
+    "descricao": "AJUDANTE DE SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 306.045199223757,
+    "preco_unitario": 48.948,
+    "preco_total": 24799.3635,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 325.58,
+    "preco_unitario": 48.948,
+    "preco_total": 26382.3009,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 325.58,
+    "preco_unitario": 44.0532,
+    "preco_total": 23744.061,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018510",
+    "descricao": "SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 306.045199223757,
+    "preco_unitario": 48.948,
+    "preco_total": 24799.3635,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "05.11.0005",
+    "descricao": "DISCO DE CORTE",
+    "unidade": " UN",
+    "quantidade": 16.0,
+    "preco_unitario": 185.58,
+    "preco_total": 2969.28,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "000493",
+    "descricao": "DUR PAVEROC SC 25KG",
+    "unidade": "SACA",
+    "quantidade": 40.0,
+    "preco_unitario": 74.232,
+    "preco_total": 2969.28,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1749110",
+    "descricao": "PISO ALER",
+    "unidade": "un",
+    "quantidade": 40.0,
+    "preco_unitario": 556.74,
+    "preco_total": 22269.6,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1813110",
+    "descricao": "TINTA ACRILICA",
+    "unidade": "L",
+    "quantidade": 4.0,
+    "preco_unitario": 37.116,
+    "preco_total": 148.464,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 32.0,
+    "preco_unitario": 48.948,
+    "preco_total": 2593.0128,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 32.0,
+    "preco_unitario": 44.0532,
+    "preco_total": 2333.7116,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "210821",
+    "descricao": " Corrimão duplo conforme NBR 9050",
+    "unidade": "M",
+    "quantidade": 10.72,
+    "preco_unitario": 396.517723880597,
+    "preco_total": 4250.67,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1616509",
+    "descricao": "ESTRUTURA METALICA",
+    "unidade": "un",
+    "quantidade": 53.6,
+    "preco_unitario": 44.5392,
+    "preco_total": 2387.3011,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010160",
+    "descricao": "AJUDANTE DE SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 5.36,
+    "preco_unitario": 48.948,
+    "preco_total": 434.3294,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018510",
+    "descricao": "SOLDADOR",
+    "unidade": "HS",
+    "quantidade": 5.36,
+    "preco_unitario": 48.948,
+    "preco_total": 434.3294,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "000257",
+    "descricao": "JATEAMENTO/GALVANIZAÇÃO",
+    "unidade": "un",
+    "quantidade": 53.6,
+    "preco_unitario": 14.8464,
+    "preco_total": 795.767,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1907910",
+    "descricao": "TRANSPORTE MOLDES",
+    "unidade": "VB",
+    "quantidade": 0.00535999986459501,
+    "preco_unitario": 37116.0,
+    "preco_total": 198.9418,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "162609",
+    "descricao": " Instalação de buzinotes D=100mm",
+    "unidade": "UN",
+    "quantidade": 13.0,
+    "preco_unitario": 117.119230769231,
+    "preco_total": 1522.55,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1334110",
+    "descricao": "TUBO PVC  100MM",
+    "unidade": "M",
+    "quantidade": 14.3000003099442,
+    "preco_unitario": 77.9436,
+    "preco_total": 1114.594,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 5.59389996528625,
+    "preco_unitario": 44.0532,
+    "preco_total": 407.9556,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "135010",
+    "descricao": " Passeio de concreto, inclusive lastro de brita ou areia",
+    "unidade": "M2",
+    "quantidade": 67.54,
+    "preco_unitario": 446.688332839799,
+    "preco_total": 30169.33,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 17.4388273108006,
+    "preco_unitario": 44.0532,
+    "preco_total": 1271.784952,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1223355",
+    "descricao": "CONCRETO USINADO FCK11 MPA",
+    "unidade": "M3",
+    "quantidade": 10.6375495169163,
+    "preco_unitario": 2041.38,
+    "preco_total": 21715.2852,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1438410",
+    "descricao": "GASOLINA",
+    "unidade": "L",
+    "quantidade": 2.53275,
+    "preco_unitario": 23.4202,
+    "preco_total": 59.313664,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1546010",
+    "descricao": "VIBRADOR PORTÁTIL MANGOTE DE 3MT",
+    "unidade": "un",
+    "quantidade": 2.53275,
+    "preco_unitario": 37.116,
+    "preco_total": 94.0089,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1017010",
+    "descricao": "PEDREIRO",
+    "unidade": "HS",
+    "quantidade": 16.4122200483084,
+    "preco_unitario": 48.948,
+    "preco_total": 1329.9166,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 16.4122200483084,
+    "preco_unitario": 44.0532,
+    "preco_total": 1196.93038,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1100910",
+    "descricao": "AREIA GROSSA",
+    "unidade": "\nMT",
+    "quantidade": 2.12750990338326,
+    "preco_unitario": 556.74,
+    "preco_total": 1184.4692,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 3.24192004830837,
+    "preco_unitario": 44.0532,
+    "preco_total": 236.41698,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1197726",
+    "descricao": "LOCAÇAO DE FORMAS (INDENIZAÇÃO)",
+    "unidade": "UN",
+    "quantidade": 9.4556,
+    "preco_unitario": 32.5136,
+    "preco_total": 307.435356,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "020111",
+    "descricao": "DESMOLDANTE PARA FORMAS",
+    "unidade": "Kg",
+    "quantidade": 0.0283668,
+    "preco_unitario": 37.116,
+    "preco_total": 1.053668,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1384810",
+    "descricao": "LOCAÇAO DE FORMAS MILLS",
+    "unidade": "M2",
+    "quantidade": 9.4556,
+    "preco_unitario": 167.022,
+    "preco_total": 1579.2946,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1334160",
+    "descricao": "TUBO DE POLIETILENO  50MM",
+    "unidade": "M",
+    "quantidade": 9.4556,
+    "preco_unitario": 5.5674,
+    "preco_total": 52.6407,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1010130",
+    "descricao": "AJUDANTE DE CARPINTEIRO",
+    "unidade": "HS",
+    "quantidade": 4.7278,
+    "preco_unitario": 44.0532,
+    "preco_total": 344.7849,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1011230",
+    "descricao": "CARPINTEIRO",
+    "unidade": "HS",
+    "quantidade": 4.7278,
+    "preco_unitario": 48.948,
+    "preco_total": 383.0936,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1907911",
+    "descricao": "FRETE FORMAS",
+    "unidade": "M2",
+    "quantidade": 9.4556,
+    "preco_unitario": 29.6928,
+    "preco_total": 280.7638,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1385681",
+    "descricao": "AGENTE DE CURA QUÖMICA",
+    "unidade": "Kg",
+    "quantidade": 1.89112,
+    "preco_unitario": 33.4044,
+    "preco_total": 63.17018,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1018210",
+    "descricao": "SERVENTE",
+    "unidade": "HS",
+    "quantidade": 0.94556,
+    "preco_unitario": 44.0532,
+    "preco_total": 68.96504,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "211016",
+    "descricao": " Escada provisória",
+    "unidade": "VB",
+    "quantidade": 2.0,
+    "preco_unitario": 330575.88,
+    "preco_total": 661151.76,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1406510",
+    "descricao": "ESCADA METALICA",
+    "unidade": "un",
+    "quantidade": 720.0,
+    "preco_unitario": 593.856,
+    "preco_total": 427576.32,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "1015810",
+    "descricao": "MONTADOR",
+    "unidade": "HS",
+    "quantidade": 1600.0,
+    "preco_unitario": 48.948,
+    "preco_total": 129650.642,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  },
+  {
+    "codigo": "001149",
+    "descricao": "FRETE",
+    "unidade": "un",
+    "quantidade": 4.0,
+    "preco_unitario": 25981.2,
+    "preco_total": 103924.8,
+    "nome_obra": "1 - READEQ PASSARELA CCR",
+    "contexto_obra": "Orçamento para a obra '1 - READEQ PASSARELA CCR', versão 'N/A'."
+  }
+]
