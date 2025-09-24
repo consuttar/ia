@@ -15,7 +15,7 @@ print("Carregando e formatando o dataset...")
 def format_instruction(example):
     return f"### Instruction:\n{example['instruction']}\n\n### Response:\n{example['output']}"
 
-dataset = load_dataset("json", data_files="dados_treinamento.json", split="train")
+dataset = load_dataset("json", data_files="dados_treinamento_final.json", split="train")
 dataset = dataset.map(lambda example: {"text": format_instruction(example)})
 
 
