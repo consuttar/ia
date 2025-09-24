@@ -81,7 +81,6 @@ trainer = SFTTrainer(
     model=model,
     train_dataset=dataset,
     peft_config=lora_config,
-    dataset_text_field="text", # Agora isso funciona, pois criamos a coluna "text"
     max_seq_length=2048,
     tokenizer=tokenizer,
     args=training_arguments,
